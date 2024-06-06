@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luara Kortz
 - 👀 I’m interested in artificial intelligence, web development, graphic design.
-- 🌱 I’m currently learning Python, data analysis, user experience design.
+- 🌱 I’m currently learning Python, data analysis.
 - 💞️ I’m looking to collaborate on open-source projects, startup ideas, research papers.
 - 📫 How to reach me kortzluara@gmail.com 
 - 😄 Pronouns: Ela
